@@ -1,0 +1,452 @@
+[
+	{
+		"question" : "What is meant by Dropcap in MS word?",
+		"option1" : "Dropping the cap of a word or letter or sentence to highlight the text",
+		"option2" : "Encapsulating the coloured drop to provide cap to the document",
+		"option3" : "Creating an ink drop at start of the document to make it colourful",
+		"option4" : "Providing a large capital letter at the start of a paragraph",
+		"option5" : "None of the above",
+		"key" : "d"
+	},
+	{
+		"question" : "What is the abbreviation for ASCII?",
+		"option1" : "Astrological Science for Creating Internal Intelligence",
+		"option2" : "Amplified Structure for Cutting Important Iron",
+		"option3" : "Advertised Solution in Creating Ideal Idol",
+		"option4" : "Application form for Scheduled Caste's Institute in India",
+		"option5" : "None of the above",
+		"key" : "e"
+	},
+	{
+	    "question" : "Which of the following is used for directly accessing the installed sofware from desktop?",
+		"option1" : "Recycle Bin",
+		"option2" : "Start button",
+		"option3" : "Desktop shortcut of software",
+		"option4" : "All of the above",
+		"option5" : "None of the above",
+		"key" : "c"
+	},
+	{
+	    "question" : "What is use of 'Lock the Taskbar' option?",
+		"option1" : "Taskbar cannot be translated in vertical direction",
+		"option2" : "Taskbar cannot be translated in horizontal direction",
+		"option3" : "Taskbar cannot be rotated in clockwise direction",
+		"option4" : "Taskbar cannot be rotated in counter-clockwise direction",
+		"option5" : "Taskbar cannot be transformed from current position",
+		"key" : "e"
+	},
+	{
+	    "question" : "Which of the following are output devices?",
+		"option1" : "Mouse,Monitor,Keyboard",
+		"option2" : "Monitor,Printer,Speakers",
+		"option3" : "Mouse,Monitor,Speakers",
+		"option4" : "Joystick,Keyboard,Touchscreen",
+		"option5" : "None of the above",
+		"key" : "b"
+	},
+	{
+	    "question" : "Eight bytes is equal to ________",
+		"option1" : "1 bit",
+		"option2" : "32 bits",
+		"option3" : "64 bits",
+		"option4" : "128 bits",
+		"option5" : "None of the above",
+		"key" : "c"
+	},
+	{
+	    "question" : "What are the shortcuts for 'Redo' and 'Close Document' in MS Word?",
+		"option1" : "Ctrl+Y,Ctrl+Z",
+		"option2" : "Ctrl+Z,Ctrl+X",
+		"option3" : "Ctrl+R,Ctrl+W",
+		"option4" : "Ctrl+V,Ctrl+Z",
+		"option5" : "Ctrl+Y,Ctrl+W",
+		"key" : "e"
+	},
+	{
+	    "question" : "Which of the following provides the formatting options in MS Office?",
+		"option1" : "Ribbon",
+		"option2" : "Format Painter",
+		"option3" : "Watermark",
+		"option4" : "Highlighter",
+		"option5" : "None of the above",
+		"key" : "a"
+	},
+	{
+	    "question" : "What is the exact use of 'MailMerge' in MS Word?",
+		"option1" : "To send different data to same person at a time",
+		"option2" : "To send same data to multiple persons at a time",
+		"option3" : "To send different data to multiple persons at a time",
+		"option4" : "All of the above",
+		"option5" : "None of the above",
+		"key" : "b"
+	},
+	{
+	    "question" : "What are the steps to save a file in MS Office?",
+		"option1" : "File menu -> Save -> SaveDialogBox -> Select desired location to save -> Name the file -> Save the file",
+		"option2" : "Ctrl+S -> SaveDialogBox -> Select desired location to save -> Name the file -> Save the file",
+		"option3" : "Ctrl+W -> MessageBox -> Save -> SaveDialogBox -> Select desired location to save -> Name the file -> Save the file",
+		"option4" : "All of the above",
+		"option5" : "None of the above",
+		"key" : "d"
+	},
+	{
+	    "question" : "What is the default file extension of a file saved in MS Word?",
+		"option1" : "docx",
+		"option2" : "xlsx",
+		"option3" : "jpg",
+		"option4" : "Both a & b",
+		"option5" : "None of the above",
+		"key" : "a"
+	},
+	{
+	    "question" : "Which of the following statements is false?",
+		"option1" : "ROM is non-volatile memory and RAM is volatile memory",
+		"option2" : "The abbreviation of ROM is Read Only Memory",
+		"option3" : "The abbreviation of RAM is Random Affiliated Memory",
+		"option4" : "RAM is the memory that gets erased when system is restarted",
+		"option5" : "None of the above",
+		"key" : "c"
+	},
+	{
+	    "question" : "Which of the following symbols is called as 'tilde'?",
+		"option1" : "$",
+		"option2" : "!",
+		"option3" : "&",
+		"option4" : "~",
+		"option5" : "/",
+		"key" : "d"
+	},
+	{
+	    "question" : "What is the exact number of columns present in an MS excel sheet?",
+		"option1" : "10,48,540",
+		"option2" : "16,384",
+		"option3" : "10,48,576",
+		"option4" : "12,576",
+		"option5" : "2,00,000",
+		"key" : "b"
+	},
+	{
+	    "question" : "Landscape is a type of ___________",
+		"option1" : "A Font Style",
+		"option2" : "Page Orientation",
+		"option3" : "Page Layout",
+		"option4" : "Page Size",
+		"option5" : "Page Number Style",
+		"key" : "b"
+	},
+	{
+	    "question" : "Notepad is used for __________",
+		"option1" : "Only for Typing Text",
+		"option2" : "Only for Attaching Images",
+		"option3" : "Typing Text and Attaching Images",
+		"option4" : "Only for Viewing",
+		"option5" : "None of the above",
+		"key" : "a"
+	},
+	{
+	    "question" : "The area in which an MS Excel spreadsheet allows to enter formula and data is _______",
+		"option1" : "Title Bar",
+		"option2" : "Task Bar",
+		"option3" : "Menu Bar",
+		"option4" : "Formula Bar",
+		"option5" : "Formula Data Bar",
+		"key" : "d"
+	},
+	{
+	    "question" : "The Shortcuts that appear on the desktop are called _________",
+		"option1" : "Image",
+		"option2" : "My Documents",
+		"option3" : "Icons",
+		"option4" : "My Computer",
+		"option5" : "Disks",
+		"key" : "c"
+	},
+	{
+	    "question" : "In MS Excel, Columns are labelled as _________",
+		"option1" : "A,B,C,...",
+		"option2" : "1,2,3,...",
+		"option3" : "A1,B2,C3,...",
+		"option4" : "1A,2B,3C,...",
+		"option5" : "$A,$B,$C,...",
+		"key" : "a"
+	},
+	{
+	    "question" : "Which of the following is not a search engine?",
+		"option1" : "Google",
+		"option2" : "Bing",
+		"option3" : "Yahoo",
+		"option4" : "Baidu",
+		"option5" : "MS Word",
+		"key" : "e"
+	},
+	{
+	    "question" : "A Computer on a network can be identified by __________",
+		"option1" : "E-mail Address",
+		"option2" : "IP Address",
+		"option3" : "WLAN Address",
+		"option4" : "Street Address",
+		"option5" : "None of the above",
+		"key" : "b"
+	},
+	{
+	    "question" : "A Number or Letter, that appears little above the level of normal text is called ___________ ,that appears little below the level of normal text is called ___________",
+		"option1" : "Supertext,Subscript",
+		"option2" : "Supertext,Toptext",
+		"option3" : "Superscript,Subscript",
+		"option4" : "Superscript,Toptext",
+		"option5" : "Supertext,Subtext",
+		"key" : "c"
+	},
+	{
+	    "question" : " __________ is at the top of the window which displays the name of the document or file.",
+		"option1" : "Title Bar",
+		"option2" : "Menu Bar",
+		"option3" : "Formula Bar",
+		"option4" : "Standard Tool Bar",
+		"option5" : "Task Bar",
+		"key" : "a"
+	},
+	{
+	    "question" : "What is the output for the formula '=PROPER(COMPUTER)' in MS Excel?",
+		"option1" : "computer",
+		"option2" : "Computer",
+		"option3" : "COMPUTER",
+		"option4" : "CoMpUtEr",
+		"option5" : "Syntax error",
+		"key" : "e"
+	},
+	{
+	    "question" : "The numerical data entered in MS Excel worksheet is __________ aligned by default.",
+		"option1" : "Left",
+		"option2" : "Right",
+		"option3" : "Center",
+		"option4" : "Top",
+		"option5" : "Bottom",
+		"key" : "b"
+	},
+	{
+	    "question" : "Text-styling feature in MS Word is ____________",
+		"option1" : "WordArt",
+		"option2" : "WordFont",
+		"option3" : "WordColor",
+		"option4" : "WordFill",
+		"option5" : "None of the above",
+		"key" : "a"
+	},
+	{
+	    "question" : "What is the keyboard shortcut for applying center alignment to a paragraph in MS Word?",
+		"option1" : "Ctrl+D",
+		"option2" : "Ctrl+C",
+		"option3" : "Ctrl+E",
+		"option4" : "Ctrl+Shift+C",
+		"option5" : "Ctrl+Space",
+		"key" : "c"
+	},
+	{
+	    "question" : "Arrange the units of memory TB,KB,GB,MB in descending order.",
+		"option1" : "KB<MB<GB<TB",
+		"option2" : "TB<KB<MB<GB",
+		"option3" : "GB>MB>KB>TB",
+		"option4" : "TB>GB>MB>KB",
+		"option5" : "GB>MB>KB=TB",
+		"key" : "d"
+	},
+	{
+	    "question" : "The Intersection of a row and a column in a MS Excel worksheet is called _________",
+		"option1" : "Value",
+		"option2" : "Cell",
+		"option3" : "Column",
+		"option4" : "Row",
+		"option5" : "Address",
+		"key" : "b"
+	},
+	{
+	    "question" : "In Internet Terminology, Abbreviation of IP is ___________",
+		"option1" : "Internet Procedure",
+		"option2" : "Internet Processor",
+		"option3" : "Internet Product",
+		"option4" : "Internet Provider",
+		"option5" : "Internet Protocol",
+		"key" : "e"
+	},
+	{
+	    "question" : "In MS Excel spreadsheet, It is showing a warning 'data entered in the cell is restricted'. It indicates that _________________ is performed on the particular cell.",
+		"option1" : "Conditional Formatting",
+		"option2" : "Pivot Table",
+		"option3" : "Data Validation",
+		"option4" : "Data Transformation",
+		"option5" : "Data checking",
+		"key" : "c"
+	},
+	{
+	    "question" : "Which MS Excel function takes cell range and a test condition as input and gives the count of the cells satisfying the test condition in the cell range as output?",
+		"option1" : "COUNT",
+		"option2" : "COUNTIF",
+		"option3" : "COUNTBLANK",
+		"option4" : "COUNTA",
+		"option5" : "AVERAGE",
+		"key" : "b"
+	},
+	{
+	    "question" : "What is the keyboard shortcut for deleting the files or folders permanently?",
+		"option1" : "Delete",
+		"option2" : "Ctrl+Delete",
+		"option3" : "Alt+Delete",
+		"option4" : "Shift+Delete",
+		"option5" : "Tab+Delete",
+		"key" : "d"
+	},
+	{
+	    "question" : "Match the following shortcuts corresponding to their uses\nA. Ctrl+P\n1. Page Break\nB. Ctrl+Enter\n2. Subscript\nC. Ctrl+J\n3. Print\nD. Ctrl+=\n4. Justify",
+		"option1" : "A-2,B-4,C-1,D-2",
+		"option2" : "A-2,B-1,C-4,D-3",
+		"option3" : "A-3,B-1,C-4,D-2",
+		"option4" : "A-1,B-4,C-2,D-3",
+		"option5" : "A-4,B-2,C-3,D-1",
+		"key" : "c"
+	},
+	{
+	    "question" : "In MS Excel, which of the following formula is equivalent to ABS( ) function? (Suppose for cell A1)",
+		"option1" : "=IF(A1<0,A1,(-1)*A1)",
+		"option2" : "=IF(A1>0,A1,(-1)*A1)",
+		"option3" : "=IF(A1=0,A1,(-1)*A1)",
+		"option4" : "=IF(A1=0,(-1)*A1,A1)",
+		"option5" : "=IF(A1<=1,A1,(-1)*A1)",
+		"key" : "b"
+	},
+	{
+	    "question" : "In MS Excel, which of the following formula is used to find rank of C5 cell in cell range C1 to C10?",
+		"option1" : "=RANK($C$5,$C$1:$C$10)",
+		"option2" : "=RANK(C5)",
+		"option3" : "=RANK($C$5,C1:C10)",
+		"option4" : "=RANK(C5,C1:C10)",
+		"option5" : "=RANK(C5,$C$1:$C$10)",
+		"key" : "e"
+	},
+	{
+	    "question" : "In MS Excel, what is the use of pivot table?",
+		"option1" : "To format the table with multiple colors in simple way",
+		"option2" : "To create the table with a pivot point at one end",
+		"option3" : "To rearrange the complicated data in a simple tabular way",
+		"option4" : "To transform the table into other sheet",
+		"option5" : "None of the above",
+		"key" : "c"
+	},
+	{
+	    "question" : "Which of the following chart deals about sector angles?",
+		"option1" : "Area chart",
+		"option2" : "Bar chart",
+		"option3" : "XY(Scatter) chart",
+		"option4" : "Pie chart",
+		"option5" : "Column chart",
+		"key" : "d"
+	},
+	{
+	    "question" : "Google chrome is an example for ____________",
+		"option1" : "Website",
+		"option2" : "Web page",
+		"option3" : "Web browser",
+		"option4" : "Search engine",
+		"option5" : "Operating system",
+		"key" : "c"
+	},
+	{
+	    "question" : "Which of the following formula will give output value as FALSE?",
+		"option1" : "=AND(ABS(-2),POWER(2,0),OR(-1,0))",
+		"option2" : "=OR(SUM(-2,4,-2),ABS(0),AND(-2,0))",
+		"option3" : "=AND(SQRT(4),POWER(2,0),OR(-2,0))",
+		"option4" : "=OR(SUM(-2,4,-2),FACT(0),OR(-1,0))",
+		"option5" : "=IF(2>3,\"FALSE\",\"TRUE\")",
+		"key" : "b"
+	},
+	{
+	    "question" : "Match the following items based on their relation\nA. Operating System\n1. MS PowerPoint\nB. Slides\n2. A Font Style\nC. IP Address\n3. Windows\nD. Bold\n4. Internet",
+		"option1" : "A-2,B-3,C-4,D-1",
+		"option2" : "A-3,B-4,C-1,D-2",
+		"option3" : "A-2,B-3,C-1,D-4",
+		"option4" : "A-3,B-1,C-2,D-4",
+		"option5" : "A-3,B-1,C-4,D-2",
+		"key" : "e"
+	},
+	{
+	    "question" : "Which of the following is the most essential component of the computer?",
+		"option1" : "Scanner",
+		"option2" : "CPU",
+		"option3" : "Speakers",
+		"option4" : "Mouse",
+		"option5" : "Keyboard",
+		"key" : "b"
+	},
+	{
+	    "question" : "Which of the following is not a feature of computer?",
+		"option1" : "Intelligence",
+		"option2" : "Diligence",
+		"option3" : "Reliability",
+		"option4" : "Network Capability",
+		"option5" : "Accuracy",
+		"key" : "a"
+	},
+	{
+	    "question" : "Match the following keyboard shortcuts in MS Word with their use\nA. Ctrl+Shift+>\n1. Zoom Out\nB. Ctrl+Shift+<\n2. Font Size Increase\nC. Ctrl+MouseScrollUp\n3. Font Size Decrease\nD. Ctrl+MouseScrollDown\n4. Spelling check\nE. F7\n5. Zoom In",
+		"option1" : "A-3,B-4,C-5,D-1,E-2",
+		"option2" : "A-5,B-1,C-3,D-4,E-2",
+		"option3" : "A-3,B-4,C-1,D-5,E-2",
+		"option4" : "A-5,B-1,C-2,D-3,E-4",
+		"option5" : "A-2,B-3,C-5,D-1,E-4",
+		"key" : "e"
+	},
+	{
+	    "question" : "E-mail stands for ____________, G-mail stands for _____________",
+		"option1" : "Easy mail, Go mail",
+		"option2" : "Entertainment mail, Good mail",
+		"option3" : "Electronic mail, Google mail",
+		"option4" : "End mail,Good mail",
+		"option5" : "Easy mail, Google mail",
+		"key" : "c"
+	},
+	{
+	    "question" : "Which of the following formula will give corresponding ASCII character for 65 as output?",
+		"option1" : "=CHAR(POWER(4,3)-1)",
+		"option2" : "=CHAR(65)",
+		"option3" : "=CHAR(FACT(65))",
+		"option4" : "=CHAR(IF(AND(4,1,0),65,64))",
+		"option5" : "=CHAR(\"65\")",
+		"key" : "b"
+	},
+	{
+	    "question" : "Match the following according to the components used in corresponding computer generations\nA. First Generation\n1. Integrated Circuits\nB. Second Generation\n2. Vacuum Tubes\nC. Third Generation\n3. Micro Processors\nD. Fourth Generation\n4. Optic Fibre Technology\nE. Fifth Generation\n5. Transistors",
+		"option1" : "A-2,B-5,C-1,D-3,E-4",
+		"option2" : "A-3,B-1,C-2,D-4,E-5",
+		"option3" : "A-3,B-4,C-1,D-5,E-2",
+		"option4" : "A-4,B-1,C-2,D-3,E-5",
+		"option5" : "A-4,B-1,C-2,D-5,E-3",
+		"key" : "a"
+	},
+	{
+	    "question" : "Which function is used in MS excel to find the average of the cell range data with a test condition?",
+		"option1" : "=SUM(cell range)",
+		"option2" : "=AVERAGE(cell range)",
+		"option3" : "=SUMIF(cell range)",
+		"option4" : "=AVERAGEIF(cell range)",
+		"option5" : "=COUNT(cell range)",
+		"key" : "d"
+	},
+	{
+	    "question" : "In MS Excel, Which of the formula is equivalent to the function (consider x as a cell number)\n\n=     2*x-1, x is positive and odd\nf(x)\n=     2*x+1, x is positive and even\n\n=     |2*x|, x is negative or zero",
+		"option1" : "=IF(x>0,ABS(2*x-1),IF(x-ODD(x)=0,2*x,2*x+1))",
+		"option2" : "=IF(x>0,ABS(2*x),IF(x-ODD(x)=0,2*x-1,2*x+1))",
+		"option3" : "=IF(x<=0,ABS(2*x),IF(x-ODD(x)=0,2*x-1,2*x+1))",
+		"option4" : "=IF(x<0,ABS(2*x+1),IF(x-EVEN(x)=0,2*x-1,2*x))",
+		"option5" : "=IF(x<=0,ABS(2*x-1),IF(x-EVEN(x)=0,2*x,2*x+1))",
+		"key" : "c"
+	},
+	{
+	    "question" : "Which of the following is not a generally used function of mouse?",
+		"option1" : "Mouse Right click",
+		"option2" : "Mouse Left click",
+		"option3" : "Mouse Double click",
+		"option4" : "Mouse wheel scroll",
+		"option5" : "Mouse wheel click",
+		"key" : "e"
+	}
+]
